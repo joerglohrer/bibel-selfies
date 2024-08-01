@@ -1,0 +1,48 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Bibel-Selfies
+description: Selfies mit Midjourney zu Biblischen Figuren und Szenen
+license: https://creativecommons.org/publicdomain/zero/1.0/deed.de
+id: >-
+  https://git.rpi-virtuell.de/Comenius-Institut/KI-religionsbezogen/src/branch/main/bibel-selfies.md
+creator:
+  - givenName: Jörg
+    familyName: Lohrer
+    id: https://orcid.org/0000-0002-9282-0406
+    type: Person
+    affiliation:
+      name: Comenius-Institut
+      id: https://ror.org/025e8aw85
+      type: Organization
+keywords:
+  - KI
+  - Selfie
+  - Bibel
+  - Religionspädagogik
+inLanguage:
+  - de
+  - en
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n02
+  - https://w3id.org/kim/hochschulfaechersystematik/n03
+  - https://w3id.org/kim/hochschulfaechersystematik/n053
+  - https://w3id.org/kim/hochschulfaechersystematik/n086
+  - https://w3id.org/kim/hochschulfaechersystematik/n136
+  - https://w3id.org/kim/hochschulfaechersystematik/n544
+  - https://w3id.org/kim/hochschulfaechersystematik/n545
+image: >-
+  https://pxscdn.com/public/m/_v2/681776049104369468/0e43b1202-69768b/uIBBxUFlGmav/yn9gQAvrT3qAamt2WzicttXBaTzhtlY3BsqGC4Pp.png
+learningResourceType:
+  - https://w3id.org/kim/hcrt/image
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_2
+  - https://w3id.org/kim/educationalLevel/level_3
+  - https://w3id.org/kim/educationalLevel/level_4
+  - https://w3id.org/kim/educationalLevel/level_5
+  - https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_6
+  - https://w3id.org/kim/educationalLevel/level_7
+  - https://w3id.org/kim/educationalLevel/level_B
+  - https://w3id.org/kim/educationalLevel/level_C
+datePublished: '2024-08-01'
